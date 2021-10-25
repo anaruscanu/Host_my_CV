@@ -20,4 +20,3 @@
 <li>Kayaking</li>
 </ul>
 </body>
-</html>
