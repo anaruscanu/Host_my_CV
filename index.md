@@ -1,8 +1,4 @@
-<!doctype html>
-<html>
-<head>
-<title>Pagina de profil Ana-Maria Ruscanu</title>
-</head>
+
 
 <body>
 <h1>Ana-Maria Ruscanu</h1>
